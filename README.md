@@ -17,7 +17,7 @@ I'm a BS Artificial Intelligence student passionate about programming, problem-s
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NARJISFATIMA79&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/api/?user=NARJISFATIMA79&theme=dark)
 
 ## 🔗 Connect with Me
 [GitHub](https://github.com/NARJISFATIMA79)
