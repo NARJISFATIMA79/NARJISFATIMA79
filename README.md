@@ -16,8 +16,7 @@ I'm a BS Artificial Intelligence student passionate about programming, problem-s
 ![Narjis's GitHub stats](https://github-readme-stats.vercel.app/api?username=NARJISFATIMA79&show_icons=true&theme=radical)
 
 ## 📈 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/api/?user=NARJISFATIMA79&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NARJISFATIMA79&theme=radical)](https://git.io/streak-stats)
 
 ## 🔗 Connect with Me
 [GitHub](https://github.com/NARJISFATIMA79)
