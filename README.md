@@ -3,6 +3,7 @@
 I'm a BS Artificial Intelligence student passionate about programming, problem-solving, and building cool things with code.
 
 ## 🚀 Current Focus
+- Python and Libraries
 - C++ and Data Structures
 - Git & GitHub
 - Building real-world projects
