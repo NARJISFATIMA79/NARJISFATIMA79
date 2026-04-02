@@ -1,4 +1,4 @@
-# Hi, I'm Narjis 👋
+# Hi, I'm NARJIS 👋
 
 I'm a BS Artificial Intelligence student passionate about programming, problem-solving, and building cool things with code.
 
@@ -13,7 +13,7 @@ I'm a BS Artificial Intelligence student passionate about programming, problem-s
 - Work on open-source projects
 
 ## 📈 GitHub Stats
-![Narjis's GitHub stats](https://github-readme-stats.vercel.app/api?username=NARJISFATIMA79&show_icons=true&theme=radical)
+![NARJIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=NARJISFATIMA79&show_icons=true&theme=radical)
 
 ## 📈 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=NARJISFATIMA79&theme=radical)](https://git.io/streak-stats)
